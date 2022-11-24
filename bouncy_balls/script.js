@@ -6,7 +6,7 @@ var lengthAngle = Math.abs(startingAngle - endingAngle);
 console.log(startingAngle, endingAngle, lengthAngle);
 var ctx = canvas.getContext("2d");
 var balls = [];
-var spd = 0.8;
+var spd = 0.05;
 class Ball {
   constructor(d, step, color, radius) {
     this.radius = radius;

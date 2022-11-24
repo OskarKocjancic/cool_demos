@@ -16,3 +16,8 @@ button {
     margin-top: 3rem;
 	padding: 1rem;
 }
+canvas{
+	background-color: red;
+	width: 100%;
+
+}

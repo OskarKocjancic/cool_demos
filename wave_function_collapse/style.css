@@ -7,7 +7,7 @@ body {
 	width: 100%;
 	height: 100vh;
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
 	background-color: #2d2e30;
@@ -17,7 +17,9 @@ button {
     margin-top: 3rem;
 	padding: 1rem;
 }
+
 canvas{
-	border: 1px solid #7eddd3;
+	border: 0.5rem solid #7eddd3;
+	border-radius: 1rem;
 }
 
