@@ -8,16 +8,11 @@ body {
 	height: 100vh;
 	display: flex;
 	align-items: center;
-	justify-content: flex-start;
+	justify-content: center;
 	flex-direction: column;
 	background-color: #2d2e30;
 }
 button {
-    margin-top: 3rem;
+	margin-top: 3rem;
 	padding: 1rem;
-}
-canvas{
-	background-color: red;
-	width: 100%;
-
 }
